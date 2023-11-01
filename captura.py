@@ -79,3 +79,4 @@ video_capture.release()
 cv2.destroyAllWindows()
 cursor.close()
 conn.close()
+
